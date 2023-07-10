@@ -1,2 +1,2 @@
-# DesognTokens
+# DesignTokens
 DesignTokens
